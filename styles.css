@@ -1,0 +1,43 @@
+* {
+    margin:0 auto;
+    padding:0;
+}
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    padding-top:20px;
+    text-align: center;
+    font-size: 3em;
+}
+
+#container {
+    width:300px;
+    height:400px;
+    border: 3px solid black;
+    text-align: center;
+    margin-top:30px;
+    background-color: cornflowerblue;
+}
+
+#totalsection {
+    height:80%;
+    text-align:center;
+}
+
+p {
+    font-size:10em;
+    padding-top:70px;
+}
+
+#countsection {
+    height:20%;
+    text-align: center;
+}
+
+.but {
+    padding:2px 5px;
+    margin:0 5px;
+}
